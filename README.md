@@ -1,1 +1,1 @@
-# jquery-image-lazy
+# jquery.image-lazy
